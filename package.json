@@ -1,0 +1,14 @@
+{
+  "name": "my-node-playground",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT-Anks",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {}
+}
